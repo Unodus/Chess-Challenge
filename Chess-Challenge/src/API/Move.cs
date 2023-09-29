@@ -46,7 +46,7 @@ namespace ChessChallenge.API
 
         /// <summary>
         /// Internal move constructor. Do not use.
-        /// </summary>
+        /// </summary>raw
         public Move(Chess.Move move, int movePieceType, int capturePieceType)
 		{
 			this.move = move;
