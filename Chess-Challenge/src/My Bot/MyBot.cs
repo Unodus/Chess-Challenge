@@ -45,7 +45,7 @@ public class MyBot : IChessBot
             float ratio = 0;
             if (totalInterest >0)
             {
-            ratio = interest / totalInterest;
+                ratio = interest / totalInterest;
 
             }
 
